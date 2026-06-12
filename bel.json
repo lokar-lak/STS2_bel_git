@@ -1,0 +1,11 @@
+{
+  "id": "bel",
+  "name": "Bielarusizatar Slay the Spire 2 (Belarusian translation)",
+  "author": "łokar",
+  "description": "Поўны пераклад Slay the Spire 2 на беларускую мову ад каманды lokar.",
+  "version": "v1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
